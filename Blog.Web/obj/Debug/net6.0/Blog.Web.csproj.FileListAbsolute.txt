@@ -400,3 +400,15 @@ C:\Users\bedel\BetulBlogProject\BetulBlog\Blog.Web\bin\Debug\net6.0\zh-Hant\Micr
 C:\Users\bedel\BetulBlogProject\BetulBlog\Blog.Web\obj\Debug\net6.0\Blog.Web.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\bedel\BetulBlogProject\BetulBlog\Blog.Web\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\bedel\BetulBlogProject\BetulBlog\Blog.Web\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\bedel\BetulBlogProject\BetulBlog\Blog.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\bedel\BetulBlogProject\BetulBlog\Blog.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\bedel\BetulBlogProject\BetulBlog\Blog.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\bedel\BetulBlogProject\BetulBlog\Blog.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\bedel\BetulBlogProject\BetulBlog\Blog.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\bedel\BetulBlogProject\BetulBlog\Blog.Web\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\bedel\BetulBlogProject\BetulBlog\Blog.Web\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\bedel\BetulBlogProject\BetulBlog\Blog.Web\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\bedel\BetulBlogProject\BetulBlog\Blog.Web\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\bedel\BetulBlogProject\BetulBlog\Blog.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\bedel\BetulBlogProject\BetulBlog\Blog.Web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\bedel\BetulBlogProject\BetulBlog\Blog.Web\bin\Debug\net6.0\NToastNotify.dll
