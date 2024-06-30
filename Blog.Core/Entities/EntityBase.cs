@@ -9,8 +9,8 @@ namespace Blog.Core.Entities
     public abstract class EntityBase : IEntityBase
     {
        
-        public virtual Guid Id { get; set; } = Guid.NewGuid();  
-        public virtual string CreatedBy { get; set; }
+        public virtual Guid Id { get; set; } = Guid.NewGuid();
+        public virtual string CreatedBy { get; set; } = "UnDefined";
         public virtual string? ModifiedBy { get; set; }
         public virtual string? DeletedBy { get; set; }
 
