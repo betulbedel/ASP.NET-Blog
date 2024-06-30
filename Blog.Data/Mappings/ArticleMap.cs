@@ -23,7 +23,8 @@ namespace Blog.Data.Mappings
                 ImageId= Guid.Parse("F2CF9CAF-CD2C-48CA-BC56-4E2A801B9CE9"),
                 CreatedBy ="betus",
                 CreatedDate= DateTime.Now,
-                 IsDeleted = false
+                IsDeleted = false,
+                UserId= Guid.Parse("46EE56BE-1ECD-4A21-B037-637B1D4A8F4C")
 
 
             },
@@ -36,7 +37,8 @@ namespace Blog.Data.Mappings
                 ImageId=Guid.Parse("A74D2084-384C-4722-9841-FFDC36C0A632"),
                 CreatedBy = "betus2",
                 CreatedDate = DateTime.Now,
-                IsDeleted = false
+                IsDeleted = false,
+                UserId = Guid.Parse("E308D56D-BBBD-45F7-B439-6EF0355BCAC1")
 
 
             }
